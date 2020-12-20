@@ -1,385 +1,385 @@
 Borough ,Month,Average Price
-Barking and Dagenham,Jan-19,297180.8891
-Barking and Dagenham,Feb-19,293838.6476
-Barking and Dagenham,Mar-19,294064.7625
-Barking and Dagenham,Apr-19,295498.2169
-Barking and Dagenham,May-19,295092.0921
-Barking and Dagenham,Jun-19,293889.3093
-Barking and Dagenham,Jul-19,297426.4427
-Barking and Dagenham,Aug-19,299421.2615
-Barking and Dagenham,Sep-19,304778.0465
-Barking and Dagenham,Oct-19,304579.0648
-Barking and Dagenham,Nov-19,306390.2643
-Barking and Dagenham,Dec-19,301283.4446
-Barnet,Jan-19,528638.9614
-Barnet,Feb-19,523678.5865
-Barnet,Mar-19,516531.2233
-Barnet,Apr-19,512343.3437
-Barnet,May-19,503911.1858
-Barnet,Jun-19,512694.0604
-Barnet,Jul-19,514667.7638
-Barnet,Aug-19,528576.6123
-Barnet,Sep-19,526669.7755
-Barnet,Oct-19,525678.4213
-Barnet,Nov-19,522639.0128
-Barnet,Dec-19,519306.245
-Bexley,Jan-19,338707.822
-Bexley,Feb-19,339186.1492
-Bexley,Mar-19,336679.6447
-Bexley,Apr-19,339330.1231
-Bexley,May-19,336980.5882
-Bexley,Jun-19,339323.7005
-Bexley,Jul-19,338346.4036
-Bexley,Aug-19,337522.5984
-Bexley,Sep-19,333339.9516
-Bexley,Oct-19,332919.6691
-Bexley,Nov-19,333657.4832
-Bexley,Dec-19,336301.872
-Brent,Jan-19,479105.7131
-Brent,Feb-19,478494.2101
-Brent,Mar-19,475429.6451
-Brent,Apr-19,486252.778
-Brent,May-19,481803.4178
-Brent,Jun-19,474820.9106
-Brent,Jul-19,473849.0416
-Brent,Aug-19,488784.3601
-Brent,Sep-19,501532.5994
-Brent,Oct-19,494770.2634
-Brent,Nov-19,432187.6972
-Brent,Dec-19,427126.3498
-Bromley,Jan-19,440623.5669
-Bromley,Feb-19,439716.3247
-Bromley,Mar-19,435996.2994
-Bromley,Apr-19,431643.364
-Bromley,May-19,428092.8974
-Bromley,Jun-19,430001.8857
-Bromley,Jul-19,434256.6273
-Bromley,Aug-19,442189.465
-Bromley,Sep-19,441057.5009
-Bromley,Oct-19,439178.3963
-Bromley,Nov-19,436079.6255
-Bromley,Dec-19,438681.811
-Camden,Jan-19,867808.2909
-Camden,Feb-19,864013.6218
-Camden,Mar-19,808859.9893
-Camden,Apr-19,820812.0189
-Camden,May-19,838678.634
-Camden,Jun-19,871957.4503
-Camden,Jul-19,890288.4056
-Camden,Aug-19,863170.6139
-Camden,Sep-19,838169.607
-Camden,Oct-19,804713.1225
-Camden,Nov-19,825336.3136
-Camden,Dec-19,807124.1868
-Croydon,Jan-19,365096.0603
-Croydon,Feb-19,364405.5423
-Croydon,Mar-19,367440.2781
-Croydon,Apr-19,363627.4384
-Croydon,May-19,364097.3147
-Croydon,Jun-19,363420.0875
-Croydon,Jul-19,365874.7819
-Croydon,Aug-19,364540.2452
-Croydon,Sep-19,365225.8121
-Croydon,Oct-19,364412.8327
-Croydon,Nov-19,367584.5609
-Croydon,Dec-19,369567.8832
-Ealing,Jan-19,483335.7786
-Ealing,Feb-19,476647.5977
-Ealing,Mar-19,467017.2121
-Ealing,Apr-19,461457.9551
-Ealing,May-19,465752.3855
-Ealing,Jun-19,474844.3044
-Ealing,Jul-19,475591.7986
-Ealing,Aug-19,474627.2689
-Ealing,Sep-19,473161.8767
-Ealing,Oct-19,477369.1395
-Ealing,Nov-19,475491.5952
-Ealing,Dec-19,469662.0338
-Enfield,Jan-19,395616.1766
-Enfield,Feb-19,397254.1728
-Enfield,Mar-19,393925.7137
-Enfield,Apr-19,393880.4735
-Enfield,May-19,388590.8834
-Enfield,Jun-19,390707.6753
-Enfield,Jul-19,388053.4705
-Enfield,Aug-19,393032.6376
-Enfield,Sep-19,386806.0139
-Enfield,Oct-19,392720.5377
-Enfield,Nov-19,393255.1074
-Enfield,Dec-19,400182.3926
-Greenwich,Jan-19,385702.913
-Greenwich,Feb-19,391920.6904
-Greenwich,Mar-19,385654.5896
-Greenwich,Apr-19,381586.241
-Greenwich,May-19,380293.0935
-Greenwich,Jun-19,388251.5205
-Greenwich,Jul-19,397827.8924
-Greenwich,Aug-19,396857.8503
-Greenwich,Sep-19,403729.7053
-Greenwich,Oct-19,401558.9893
-Greenwich,Nov-19,405336.9018
-Greenwich,Dec-19,398024.3786
-Hackney,Jan-19,527573.462
-Hackney,Feb-19,532412.0593
-Hackney,Mar-19,554701.4709
-Hackney,Apr-19,570455.933
-Hackney,May-19,560534.0617
-Hackney,Jun-19,546343.6011
-Hackney,Jul-19,555778.5255
-Hackney,Aug-19,567269.4703
-Hackney,Sep-19,573269.6528
-Hackney,Oct-19,566979.163
-Hackney,Nov-19,559757.7154
-Hackney,Dec-19,552784.8607
-Hammersmith and Fulham,Jan-19,722045.0931
-Hammersmith and Fulham,Feb-19,716796.3589
-Hammersmith and Fulham,Mar-19,716606.4475
-Hammersmith and Fulham,Apr-19,713757.5911
-Hammersmith and Fulham,May-19,716331.1173
-Hammersmith and Fulham,Jun-19,713137.331
-Hammersmith and Fulham,Jul-19,725253.0946
-Hammersmith and Fulham,Aug-19,729659.3915
-Hammersmith and Fulham,Sep-19,735537.6071
-Hammersmith and Fulham,Oct-19,719932.4
-Hammersmith and Fulham,Nov-19,719751.4006
-Hammersmith and Fulham,Dec-19,728698.0572
-Haringey,Jan-19,545523.9026
-Haringey,Feb-19,544944.9653
-Haringey,Mar-19,536737.0619
-Haringey,Apr-19,529601.1438
-Haringey,May-19,541876.8241
-Haringey,Jun-19,540625.7211
-Haringey,Jul-19,550392.6408
-Haringey,Aug-19,544193.7543
-Haringey,Sep-19,553639.841
-Haringey,Oct-19,554122.7305
-Haringey,Nov-19,559425.8856
-Haringey,Dec-19,565582.061
-Harrow,Jan-19,453365.4908
-Harrow,Feb-19,454375.2032
-Harrow,Mar-19,445148.1895
-Harrow,Apr-19,446824.9526
-Harrow,May-19,443287.9049
-Harrow,Jun-19,447719.3861
-Harrow,Jul-19,446095.264
-Harrow,Aug-19,450373.4248
-Harrow,Sep-19,453155.2371
-Harrow,Oct-19,453783.398
-Harrow,Nov-19,450108.5884
-Harrow,Dec-19,446899.5423
-Havering,Jan-19,367018.9841
-Havering,Feb-19,364615.1018
-Havering,Mar-19,359738.3791
-Havering,Apr-19,358876.943
-Havering,May-19,361268.857
-Havering,Jun-19,365336.0161
-Havering,Jul-19,367679.0664
-Havering,Aug-19,367502.2747
-Havering,Sep-19,366447.1575
-Havering,Oct-19,367101.7811
-Havering,Nov-19,365861.0685
-Havering,Dec-19,365885.5708
-Hillingdon,Jan-19,413405.0796
-Hillingdon,Feb-19,413658.0973
-Hillingdon,Mar-19,409663.0356
-Hillingdon,Apr-19,404953.3298
-Hillingdon,May-19,401052.9345
-Hillingdon,Jun-19,395982.4275
-Hillingdon,Jul-19,398547.4882
-Hillingdon,Aug-19,397385.2302
-Hillingdon,Sep-19,403944.6276
-Hillingdon,Oct-19,403300.2883
-Hillingdon,Nov-19,407706.2833
-Hillingdon,Dec-19,404843.1664
-Hounslow,Jan-19,397052.1735
-Hounslow,Feb-19,390471.1003
-Hounslow,Mar-19,393244.8678
-Hounslow,Apr-19,394788.368
-Hounslow,May-19,396766.6707
-Hounslow,Jun-19,399686.7903
-Hounslow,Jul-19,397246.2003
-Hounslow,Aug-19,401911.2435
-Hounslow,Sep-19,406930.3564
-Hounslow,Oct-19,413132.2719
-Hounslow,Nov-19,410070.8716
-Hounslow,Dec-19,409569.3406
-Islington,Jan-19,635328.0826
-Islington,Feb-19,627072.2867
-Islington,Mar-19,628267.9748
-Islington,Apr-19,620328.3023
-Islington,May-19,626491.8343
-Islington,Jun-19,625315.322
-Islington,Jul-19,629281.0539
-Islington,Aug-19,643334.6721
-Islington,Sep-19,655061.216
-Islington,Oct-19,645211.9178
-Islington,Nov-19,630659.4611
-Islington,Dec-19,648968.8895
-Kensington and Chelsea,Jan-19,1285330.7
-Kensington and Chelsea,Feb-19,1259857.8
-Kensington and Chelsea,Mar-19,1218616.659
-Kensington and Chelsea,Apr-19,1264888.871
-Kensington and Chelsea,May-19,1233812.291
-Kensington and Chelsea,Jun-19,1291763.476
-Kensington and Chelsea,Jul-19,1275437.229
-Kensington and Chelsea,Aug-19,1248525.496
-Kensington and Chelsea,Sep-19,1230181.192
-Kensington and Chelsea,Oct-19,1190436.646
-Kensington and Chelsea,Nov-19,1194049.928
-Kensington and Chelsea,Dec-19,1231764.562
-Kingston upon Thames,Jan-19,482032.3621
-Kingston upon Thames,Feb-19,475365.0536
-Kingston upon Thames,Mar-19,474572.3893
-Kingston upon Thames,Apr-19,474631.1003
-Kingston upon Thames,May-19,472574.215
-Kingston upon Thames,Jun-19,484675.6874
-Kingston upon Thames,Jul-19,502894.7646
-Kingston upon Thames,Aug-19,508405.2112
-Kingston upon Thames,Sep-19,504866.8934
-Kingston upon Thames,Oct-19,488211.357
-Kingston upon Thames,Nov-19,490420.0841
-Kingston upon Thames,Dec-19,487696.1182
-Lambeth,Jan-19,501860.8511
-Lambeth,Feb-19,495661.1662
-Lambeth,Mar-19,497632.2203
-Lambeth,Apr-19,499235.7682
-Lambeth,May-19,495444.6891
-Lambeth,Jun-19,503721.1835
-Lambeth,Jul-19,510045.0835
-Lambeth,Aug-19,519955.5995
-Lambeth,Sep-19,520403.1266
-Lambeth,Oct-19,515947.1945
-Lambeth,Nov-19,519409.5672
-Lambeth,Dec-19,521705.2055
-Lewisham,Jan-19,402342.9102
-Lewisham,Feb-19,398589.1843
-Lewisham,Mar-19,401465.4803
-Lewisham,Apr-19,400734.3199
-Lewisham,May-19,403909.8747
-Lewisham,Jun-19,405009.209
-Lewisham,Jul-19,410983.0527
-Lewisham,Aug-19,416884.6214
-Lewisham,Sep-19,420341.2689
-Lewisham,Oct-19,421257.5062
-Lewisham,Nov-19,415892.7499
-Lewisham,Dec-19,413462.24
-Merton,Jan-19,512341.0444
-Merton,Feb-19,520035.4982
-Merton,Mar-19,505346.6629
-Merton,Apr-19,501459.2863
-Merton,May-19,487640.9573
-Merton,Jun-19,498683.4153
-Merton,Jul-19,504701.5314
-Merton,Aug-19,517489.4996
-Merton,Sep-19,515391.0386
-Merton,Oct-19,509006.4346
-Merton,Nov-19,501570.2213
-Merton,Dec-19,500651.1159
-Newham,Jan-19,358029.4577
-Newham,Feb-19,363433.3843
-Newham,Mar-19,366829.9779
-Newham,Apr-19,366957.2935
-Newham,May-19,368549.5513
-Newham,Jun-19,359952.9523
-Newham,Jul-19,359105.5388
-Newham,Aug-19,361920.3425
-Newham,Sep-19,368687.252
-Newham,Oct-19,369971.9093
-Newham,Nov-19,363114.2225
-Newham,Dec-19,360934.0315
-Redbridge,Jan-19,420809.5166
-Redbridge,Feb-19,411354.6502
-Redbridge,Mar-19,405219.3902
-Redbridge,Apr-19,402053.0455
-Redbridge,May-19,401902.1726
-Redbridge,Jun-19,408513.5851
-Redbridge,Jul-19,414967.5533
-Redbridge,Aug-19,421318.6299
-Redbridge,Sep-19,414268.4761
-Redbridge,Oct-19,411874.3367
-Redbridge,Nov-19,413881.7568
-Redbridge,Dec-19,424631.0449
-Richmond upon Thames,Jan-19,655055.8372
-Richmond upon Thames,Feb-19,656018.0265
-Richmond upon Thames,Mar-19,646355.5212
-Richmond upon Thames,Apr-19,639470.4059
-Richmond upon Thames,May-19,636736.7909
-Richmond upon Thames,Jun-19,652859.3286
-Richmond upon Thames,Jul-19,657618.6192
-Richmond upon Thames,Aug-19,657973.7414
-Richmond upon Thames,Sep-19,648146.89
-Richmond upon Thames,Oct-19,643768.8467
-Richmond upon Thames,Nov-19,650948.5387
-Richmond upon Thames,Dec-19,655377.8496
-Southwark,Jan-19,500163.8442
-Southwark,Feb-19,489116.8776
-Southwark,Mar-19,489970.8262
-Southwark,Apr-19,486307.6607
-Southwark,May-19,497044.0698
-Southwark,Jun-19,494784.2522
-Southwark,Jul-19,499662.822
-Southwark,Aug-19,496717.553
-Southwark,Sep-19,507466.4349
-Southwark,Oct-19,513615.3866
-Southwark,Nov-19,510619.3086
-Southwark,Dec-19,505499.1431
-Sutton,Jan-19,374144.6399
-Sutton,Feb-19,374347.7252
-Sutton,Mar-19,371933.8862
-Sutton,Apr-19,368212.2656
-Sutton,May-19,369566.0377
-Sutton,Jun-19,371680.1027
-Sutton,Jul-19,373534.2105
-Sutton,Aug-19,368908.3512
-Sutton,Sep-19,372899.0408
-Sutton,Oct-19,369917.0379
-Sutton,Nov-19,374774.8152
-Sutton,Dec-19,372581.4288
-Tower Hamlets,Jan-19,434143.1947
-Tower Hamlets,Feb-19,427633.6537
-Tower Hamlets,Mar-19,429001.1543
-Tower Hamlets,Apr-19,433631.5913
-Tower Hamlets,May-19,428669.713
-Tower Hamlets,Jun-19,428704.9816
-Tower Hamlets,Jul-19,431289.7426
-Tower Hamlets,Aug-19,441364.1416
-Tower Hamlets,Sep-19,447628.8328
-Tower Hamlets,Oct-19,452039.7471
-Tower Hamlets,Nov-19,450988.6885
-Tower Hamlets,Dec-19,456436.006
-Waltham Forest,Jan-19,435182.1059
-Waltham Forest,Feb-19,436448.9917
-Waltham Forest,Mar-19,429354.7439
-Waltham Forest,Apr-19,432173.9751
-Waltham Forest,May-19,424654.5603
-Waltham Forest,Jun-19,421957.5805
-Waltham Forest,Jul-19,418743.455
-Waltham Forest,Aug-19,427415.7542
-Waltham Forest,Sep-19,432270.2879
-Waltham Forest,Oct-19,434920.7924
-Waltham Forest,Nov-19,435567.6807
-Waltham Forest,Dec-19,437333.4162
-Wandsworth,Jan-19,587609.0333
-Wandsworth,Feb-19,579893.0364
-Wandsworth,Mar-19,572644.5224
-Wandsworth,Apr-19,578173.4928
-Wandsworth,May-19,579367.9833
-Wandsworth,Jun-19,574832.6167
-Wandsworth,Jul-19,585174.1556
-Wandsworth,Aug-19,592250.949
-Wandsworth,Sep-19,605559.313
-Wandsworth,Oct-19,600642.1217
-Wandsworth,Nov-19,601649.5293
-Wandsworth,Dec-19,605559.8685
-Westminster,Jan-19,959408.3438
-Westminster,Feb-19,917867.8673
-Westminster,Mar-19,956110.9832
-Westminster,Apr-19,993115.1859
-Westminster,May-19,1021532.538
-Westminster,Jun-19,995107.6487
-Westminster,Jul-19,948506.6832
-Westminster,Aug-19,905951.0674
-Westminster,Sep-19,922686.7566
-Westminster,Oct-19,927734.9425
-Westminster,Nov-19,955264.5944
-Westminster,Dec-19,960943.073
+Barking and Dagenham,2019-01,297180.8891
+Barking and Dagenham,2019-02,293838.6476
+Barking and Dagenham,2019-03,294064.7625
+Barking and Dagenham,2019-04,295498.2169
+Barking and Dagenham,2019-05,295092.0921
+Barking and Dagenham,2019-06,293889.3093
+Barking and Dagenham,2019-07,297426.4427
+Barking and Dagenham,2019-08,299421.2615
+Barking and Dagenham,2019-09,304778.0465
+Barking and Dagenham,2019-10,304579.0648
+Barking and Dagenham,2019-11,306390.2643
+Barking and Dagenham,2019-12,301283.4446
+Barnet,2019-01,528638.9614
+Barnet,2019-02,523678.5865
+Barnet,2019-03,516531.2233
+Barnet,2019-04,512343.3437
+Barnet,2019-05,503911.1858
+Barnet,2019-06,512694.0604
+Barnet,2019-07,514667.7638
+Barnet,2019-08,528576.6123
+Barnet,2019-09,526669.7755
+Barnet,2019-10,525678.4213
+Barnet,2019-11,522639.0128
+Barnet,2019-12,519306.245
+Bexley,2019-01,338707.822
+Bexley,2019-02,339186.1492
+Bexley,2019-03,336679.6447
+Bexley,2019-04,339330.1231
+Bexley,2019-05,336980.5882
+Bexley,2019-06,339323.7005
+Bexley,2019-07,338346.4036
+Bexley,2019-08,337522.5984
+Bexley,2019-09,333339.9516
+Bexley,2019-10,332919.6691
+Bexley,2019-11,333657.4832
+Bexley,2019-12,336301.872
+Brent,2019-01,479105.7131
+Brent,2019-02,478494.2101
+Brent,2019-03,475429.6451
+Brent,2019-04,486252.778
+Brent,2019-05,481803.4178
+Brent,2019-06,474820.9106
+Brent,2019-07,473849.0416
+Brent,2019-08,488784.3601
+Brent,2019-09,501532.5994
+Brent,2019-10,494770.2634
+Brent,2019-11,432187.6972
+Brent,2019-12,427126.3498
+Bromley,2019-01,440623.5669
+Bromley,2019-02,439716.3247
+Bromley,2019-03,435996.2994
+Bromley,2019-04,431643.364
+Bromley,2019-05,428092.8974
+Bromley,2019-06,430001.8857
+Bromley,2019-07,434256.6273
+Bromley,2019-08,442189.465
+Bromley,2019-09,441057.5009
+Bromley,2019-10,439178.3963
+Bromley,2019-11,436079.6255
+Bromley,2019-12,438681.811
+Camden,2019-01,867808.2909
+Camden,2019-02,864013.6218
+Camden,2019-03,808859.9893
+Camden,2019-04,820812.0189
+Camden,2019-05,838678.634
+Camden,2019-06,871957.4503
+Camden,2019-07,890288.4056
+Camden,2019-08,863170.6139
+Camden,2019-09,838169.607
+Camden,2019-10,804713.1225
+Camden,2019-11,825336.3136
+Camden,2019-12,807124.1868
+Croydon,2019-01,365096.0603
+Croydon,2019-02,364405.5423
+Croydon,2019-03,367440.2781
+Croydon,2019-04,363627.4384
+Croydon,2019-05,364097.3147
+Croydon,2019-06,363420.0875
+Croydon,2019-07,365874.7819
+Croydon,2019-08,364540.2452
+Croydon,2019-09,365225.8121
+Croydon,2019-10,364412.8327
+Croydon,2019-11,367584.5609
+Croydon,2019-12,369567.8832
+Ealing,2019-01,483335.7786
+Ealing,2019-02,476647.5977
+Ealing,2019-03,467017.2121
+Ealing,2019-04,461457.9551
+Ealing,2019-05,465752.3855
+Ealing,2019-06,474844.3044
+Ealing,2019-07,475591.7986
+Ealing,2019-08,474627.2689
+Ealing,2019-09,473161.8767
+Ealing,2019-10,477369.1395
+Ealing,2019-11,475491.5952
+Ealing,2019-12,469662.0338
+Enfield,2019-01,395616.1766
+Enfield,2019-02,397254.1728
+Enfield,2019-03,393925.7137
+Enfield,2019-04,393880.4735
+Enfield,2019-05,388590.8834
+Enfield,2019-06,390707.6753
+Enfield,2019-07,388053.4705
+Enfield,2019-08,393032.6376
+Enfield,2019-09,386806.0139
+Enfield,2019-10,392720.5377
+Enfield,2019-11,393255.1074
+Enfield,2019-12,400182.3926
+Greenwich,2019-01,385702.913
+Greenwich,2019-02,391920.6904
+Greenwich,2019-03,385654.5896
+Greenwich,2019-04,381586.241
+Greenwich,2019-05,380293.0935
+Greenwich,2019-06,388251.5205
+Greenwich,2019-07,397827.8924
+Greenwich,2019-08,396857.8503
+Greenwich,2019-09,403729.7053
+Greenwich,2019-10,401558.9893
+Greenwich,2019-11,405336.9018
+Greenwich,2019-12,398024.3786
+Hackney,2019-01,527573.462
+Hackney,2019-02,532412.0593
+Hackney,2019-03,554701.4709
+Hackney,2019-04,570455.933
+Hackney,2019-05,560534.0617
+Hackney,2019-06,546343.6011
+Hackney,2019-07,555778.5255
+Hackney,2019-08,567269.4703
+Hackney,2019-09,573269.6528
+Hackney,2019-10,566979.163
+Hackney,2019-11,559757.7154
+Hackney,2019-12,552784.8607
+Hammersmith and Fulham,2019-01,722045.0931
+Hammersmith and Fulham,2019-02,716796.3589
+Hammersmith and Fulham,2019-03,716606.4475
+Hammersmith and Fulham,2019-04,713757.5911
+Hammersmith and Fulham,2019-05,716331.1173
+Hammersmith and Fulham,2019-06,713137.331
+Hammersmith and Fulham,2019-07,725253.0946
+Hammersmith and Fulham,2019-08,729659.3915
+Hammersmith and Fulham,2019-09,735537.6071
+Hammersmith and Fulham,2019-10,719932.4
+Hammersmith and Fulham,2019-11,719751.4006
+Hammersmith and Fulham,2019-12,728698.0572
+Haringey,2019-01,545523.9026
+Haringey,2019-02,544944.9653
+Haringey,2019-03,536737.0619
+Haringey,2019-04,529601.1438
+Haringey,2019-05,541876.8241
+Haringey,2019-06,540625.7211
+Haringey,2019-07,550392.6408
+Haringey,2019-08,544193.7543
+Haringey,2019-09,553639.841
+Haringey,2019-10,554122.7305
+Haringey,2019-11,559425.8856
+Haringey,2019-12,565582.061
+Harrow,2019-01,453365.4908
+Harrow,2019-02,454375.2032
+Harrow,2019-03,445148.1895
+Harrow,2019-04,446824.9526
+Harrow,2019-05,443287.9049
+Harrow,2019-06,447719.3861
+Harrow,2019-07,446095.264
+Harrow,2019-08,450373.4248
+Harrow,2019-09,453155.2371
+Harrow,2019-10,453783.398
+Harrow,2019-11,450108.5884
+Harrow,2019-12,446899.5423
+Havering,2019-01,367018.9841
+Havering,2019-02,364615.1018
+Havering,2019-03,359738.3791
+Havering,2019-04,358876.943
+Havering,2019-05,361268.857
+Havering,2019-06,365336.0161
+Havering,2019-07,367679.0664
+Havering,2019-08,367502.2747
+Havering,2019-09,366447.1575
+Havering,2019-10,367101.7811
+Havering,2019-11,365861.0685
+Havering,2019-12,365885.5708
+Hillingdon,2019-01,413405.0796
+Hillingdon,2019-02,413658.0973
+Hillingdon,2019-03,409663.0356
+Hillingdon,2019-04,404953.3298
+Hillingdon,2019-05,401052.9345
+Hillingdon,2019-06,395982.4275
+Hillingdon,2019-07,398547.4882
+Hillingdon,2019-08,397385.2302
+Hillingdon,2019-09,403944.6276
+Hillingdon,2019-10,403300.2883
+Hillingdon,2019-11,407706.2833
+Hillingdon,2019-12,404843.1664
+Hounslow,2019-01,397052.1735
+Hounslow,2019-02,390471.1003
+Hounslow,2019-03,393244.8678
+Hounslow,2019-04,394788.368
+Hounslow,2019-05,396766.6707
+Hounslow,2019-06,399686.7903
+Hounslow,2019-07,397246.2003
+Hounslow,2019-08,401911.2435
+Hounslow,2019-09,406930.3564
+Hounslow,2019-10,413132.2719
+Hounslow,2019-11,410070.8716
+Hounslow,2019-12,409569.3406
+Islington,2019-01,635328.0826
+Islington,2019-02,627072.2867
+Islington,2019-03,628267.9748
+Islington,2019-04,620328.3023
+Islington,2019-05,626491.8343
+Islington,2019-06,625315.322
+Islington,2019-07,629281.0539
+Islington,2019-08,643334.6721
+Islington,2019-09,655061.216
+Islington,2019-10,645211.9178
+Islington,2019-11,630659.4611
+Islington,2019-12,648968.8895
+Kensington and Chelsea,2019-01,1285330.7
+Kensington and Chelsea,2019-02,1259857.8
+Kensington and Chelsea,2019-03,1218616.659
+Kensington and Chelsea,2019-04,1264888.871
+Kensington and Chelsea,2019-05,1233812.291
+Kensington and Chelsea,2019-06,1291763.476
+Kensington and Chelsea,2019-07,1275437.229
+Kensington and Chelsea,2019-08,1248525.496
+Kensington and Chelsea,2019-09,1230181.192
+Kensington and Chelsea,2019-10,1190436.646
+Kensington and Chelsea,2019-11,1194049.928
+Kensington and Chelsea,2019-12,1231764.562
+Kingston upon Thames,2019-01,482032.3621
+Kingston upon Thames,2019-02,475365.0536
+Kingston upon Thames,2019-03,474572.3893
+Kingston upon Thames,2019-04,474631.1003
+Kingston upon Thames,2019-05,472574.215
+Kingston upon Thames,2019-06,484675.6874
+Kingston upon Thames,2019-07,502894.7646
+Kingston upon Thames,2019-08,508405.2112
+Kingston upon Thames,2019-09,504866.8934
+Kingston upon Thames,2019-10,488211.357
+Kingston upon Thames,2019-11,490420.0841
+Kingston upon Thames,2019-12,487696.1182
+Lambeth,2019-01,501860.8511
+Lambeth,2019-02,495661.1662
+Lambeth,2019-03,497632.2203
+Lambeth,2019-04,499235.7682
+Lambeth,2019-05,495444.6891
+Lambeth,2019-06,503721.1835
+Lambeth,2019-07,510045.0835
+Lambeth,2019-08,519955.5995
+Lambeth,2019-09,520403.1266
+Lambeth,2019-10,515947.1945
+Lambeth,2019-11,519409.5672
+Lambeth,2019-12,521705.2055
+Lewisham,2019-01,402342.9102
+Lewisham,2019-02,398589.1843
+Lewisham,2019-03,401465.4803
+Lewisham,2019-04,400734.3199
+Lewisham,2019-05,403909.8747
+Lewisham,2019-06,405009.209
+Lewisham,2019-07,410983.0527
+Lewisham,2019-08,416884.6214
+Lewisham,2019-09,420341.2689
+Lewisham,2019-10,421257.5062
+Lewisham,2019-11,415892.7499
+Lewisham,2019-12,413462.24
+Merton,2019-01,512341.0444
+Merton,2019-02,520035.4982
+Merton,2019-03,505346.6629
+Merton,2019-04,501459.2863
+Merton,2019-05,487640.9573
+Merton,2019-06,498683.4153
+Merton,2019-07,504701.5314
+Merton,2019-08,517489.4996
+Merton,2019-09,515391.0386
+Merton,2019-10,509006.4346
+Merton,2019-11,501570.2213
+Merton,2019-12,500651.1159
+Newham,2019-01,358029.4577
+Newham,2019-02,363433.3843
+Newham,2019-03,366829.9779
+Newham,2019-04,366957.2935
+Newham,2019-05,368549.5513
+Newham,2019-06,359952.9523
+Newham,2019-07,359105.5388
+Newham,2019-08,361920.3425
+Newham,2019-09,368687.252
+Newham,2019-10,369971.9093
+Newham,2019-11,363114.2225
+Newham,2019-12,360934.0315
+Redbridge,2019-01,420809.5166
+Redbridge,2019-02,411354.6502
+Redbridge,2019-03,405219.3902
+Redbridge,2019-04,402053.0455
+Redbridge,2019-05,401902.1726
+Redbridge,2019-06,408513.5851
+Redbridge,2019-07,414967.5533
+Redbridge,2019-08,421318.6299
+Redbridge,2019-09,414268.4761
+Redbridge,2019-10,411874.3367
+Redbridge,2019-11,413881.7568
+Redbridge,2019-12,424631.0449
+Richmond upon Thames,2019-01,655055.8372
+Richmond upon Thames,2019-02,656018.0265
+Richmond upon Thames,2019-03,646355.5212
+Richmond upon Thames,2019-04,639470.4059
+Richmond upon Thames,2019-05,636736.7909
+Richmond upon Thames,2019-06,652859.3286
+Richmond upon Thames,2019-07,657618.6192
+Richmond upon Thames,2019-08,657973.7414
+Richmond upon Thames,2019-09,648146.89
+Richmond upon Thames,2019-10,643768.8467
+Richmond upon Thames,2019-11,650948.5387
+Richmond upon Thames,2019-12,655377.8496
+Southwark,2019-01,500163.8442
+Southwark,2019-02,489116.8776
+Southwark,2019-03,489970.8262
+Southwark,2019-04,486307.6607
+Southwark,2019-05,497044.0698
+Southwark,2019-06,494784.2522
+Southwark,2019-07,499662.822
+Southwark,2019-08,496717.553
+Southwark,2019-09,507466.4349
+Southwark,2019-10,513615.3866
+Southwark,2019-11,510619.3086
+Southwark,2019-12,505499.1431
+Sutton,2019-01,374144.6399
+Sutton,2019-02,374347.7252
+Sutton,2019-03,371933.8862
+Sutton,2019-04,368212.2656
+Sutton,2019-05,369566.0377
+Sutton,2019-06,371680.1027
+Sutton,2019-07,373534.2105
+Sutton,2019-08,368908.3512
+Sutton,2019-09,372899.0408
+Sutton,2019-10,369917.0379
+Sutton,2019-11,374774.8152
+Sutton,2019-12,372581.4288
+Tower Hamlets,2019-01,434143.1947
+Tower Hamlets,2019-02,427633.6537
+Tower Hamlets,2019-03,429001.1543
+Tower Hamlets,2019-04,433631.5913
+Tower Hamlets,2019-05,428669.713
+Tower Hamlets,2019-06,428704.9816
+Tower Hamlets,2019-07,431289.7426
+Tower Hamlets,2019-08,441364.1416
+Tower Hamlets,2019-09,447628.8328
+Tower Hamlets,2019-10,452039.7471
+Tower Hamlets,2019-11,450988.6885
+Tower Hamlets,2019-12,456436.006
+Waltham Forest,2019-01,435182.1059
+Waltham Forest,2019-02,436448.9917
+Waltham Forest,2019-03,429354.7439
+Waltham Forest,2019-04,432173.9751
+Waltham Forest,2019-05,424654.5603
+Waltham Forest,2019-06,421957.5805
+Waltham Forest,2019-07,418743.455
+Waltham Forest,2019-08,427415.7542
+Waltham Forest,2019-09,432270.2879
+Waltham Forest,2019-10,434920.7924
+Waltham Forest,2019-11,435567.6807
+Waltham Forest,2019-12,437333.4162
+Wandsworth,2019-01,587609.0333
+Wandsworth,2019-02,579893.0364
+Wandsworth,2019-03,572644.5224
+Wandsworth,2019-04,578173.4928
+Wandsworth,2019-05,579367.9833
+Wandsworth,2019-06,574832.6167
+Wandsworth,2019-07,585174.1556
+Wandsworth,2019-08,592250.949
+Wandsworth,2019-09,605559.313
+Wandsworth,2019-10,600642.1217
+Wandsworth,2019-11,601649.5293
+Wandsworth,2019-12,605559.8685
+Westminster,2019-01,959408.3438
+Westminster,2019-02,917867.8673
+Westminster,2019-03,956110.9832
+Westminster,2019-04,993115.1859
+Westminster,2019-05,1021532.538
+Westminster,2019-06,995107.6487
+Westminster,2019-07,948506.6832
+Westminster,2019-08,905951.0674
+Westminster,2019-09,922686.7566
+Westminster,2019-10,927734.9425
+Westminster,2019-11,955264.5944
+Westminster,2019-12,960943.073
